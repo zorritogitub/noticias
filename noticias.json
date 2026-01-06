@@ -1,9 +1,16 @@
 [
     {
-        "title": "Mantenimiento programado",
+        "title": "Nueva Actualización del Sistema",
         "date": "2024-01-20",
         "content": "Se ha lanzado la versión 2.0.0 con mejoras significativas en el rendimiento y nuevas características.",
-        "type": "mantenimiento",
-        "tag": "Mantenimirento"
+        "type": "update",
+        "tag": "Actualización"
+    },
+    {
+        "title": "Mantenimiento Programado",
+        "date": "2024-01-21",
+        "content": "El servidor estará en mantenimiento el próximo sábado de 02:00 a 06:00 AM.",
+        "type": "maintenance",
+        "tag": "Mantenimiento"
     }
 ]

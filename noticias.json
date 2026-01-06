@@ -1,37 +1,9 @@
 [
     {
-        "title": "Nueva Actualización del Sistema",
+        "title": "Mantenimiento programado",
         "date": "2024-01-20",
         "content": "Se ha lanzado la versión 2.0.0 con mejoras significativas en el rendimiento y nuevas características.",
-        "type": "update",
-        "tag": "Actualización"
+        "type": "mantenimiento",
+        "tag": "Mantenimirento"
     },
-    {
-        "title": "Mantenimiento Programado",
-        "date": "2024-01-21",
-        "content": "El servidor estará en mantenimiento el próximo sábado de 02:00 a 06:00 AM.",
-        "type": "maintenance",
-        "tag": "Mantenimiento"
-    },
-    {
-        "title": "Nueva Función: Exportar Datos",
-        "date": "2024-01-19",
-        "content": "Ahora puedes exportar todas las noticias en formato PDF y CSV desde la nueva opción en el menú.",
-        "type": "feature",
-        "tag": "Nueva Característica"
-    },
-    {
-        "title": "Mejoras de Seguridad",
-        "date": "2024-01-18",
-        "content": "Se han implementado mejoras de seguridad en el sistema de autenticación. Recomendamos cambiar su contraseña.",
-        "type": "security",
-        "tag": "Seguridad"
-    },
-    {
-        "title": "Evento Especial de Invierno",
-        "date": "2024-01-22",
-        "content": "Participa en nuestro evento especial de invierno y gana recompensas exclusivas. Disponible hasta el 31 de enero.",
-        "type": "event",
-        "tag": "Evento"
-    }
 ]

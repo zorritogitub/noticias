@@ -1,16 +1,23 @@
 [
-    {
-        "title": "Nueva Actualización del Parche",
-        "date": "2024-01-20",
-        "content": "Se ha lanzado un parche para monturas Custom",
-        "type": "update",
-        "tag": "Actualización"
-    },
-    {
-        "title": "Mantenimiento Programado",
-        "date": "2024-01-21",
-        "content": "El servidor estará en mantenimiento el próximo sábado de 02:00 a 06:00 AM.",
-        "type": "maintenance",
-        "tag": "Mantenimiento"
-    }
+  {
+    "title": "Título de la primera noticia",
+    "date": "2024-01-20",
+    "content": "Contenido completo de la noticia aquí. Puede incluir HTML básico como <strong>negrita</strong> o <em>itálica</em>.",
+    "type": "update",
+    "tag": "Actualización"
+  },
+  {
+    "title": "Segunda noticia importante", 
+    "date": "2024-01-19",
+    "content": "Otra noticia aquí...",
+    "type": "feature",
+    "tag": "Nueva Característica"
+  },
+  {
+    "title": "Anuncio especial",
+    "date": "2024-01-18", 
+    "content": "Contenido del anuncio...",
+    "type": "announcement",
+    "tag": "Anuncio"
+  }
 ]
